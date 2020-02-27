@@ -1,3 +1,2 @@
 # <b>Rapid Evaluation in Health Care 2020 - IAU slides </b>
-This is a repository of materials presented by Improvement Analytics Unit speakers from the Rapid Evaluation in Health Care 2020 conference <br>
-The conference took place in London on 30 Jan 2020 and was jointly hosted with the Nuffield Trust, in collaboration with RSET and BRACE
+This is a repository of materials presented by Improvement Analytics Unit speakers from Rapid Evaluation in Health Care 2020. The conference took place in London on 30 Jan 2020 and was jointly hosted with the Nuffield Trust, in collaboration with RSET and BRACE. Please see the conference website at https://www.nuffieldtrust.org.uk/summit/rapid-evaluation-in-health-care-2020/ for more detail.
